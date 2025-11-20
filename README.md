@@ -47,9 +47,6 @@ Here are the primary technologies I work with:
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=imohsinnadaf&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="Mohsin's GitHub Stats" width="400px"/>
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imohsinnadaf&layout=compact&theme=vue&hide_border=true&exclude_repo=imohsinnadaf" alt="Top Languages" width="300px"/>
-</p>
 
 ---
 
