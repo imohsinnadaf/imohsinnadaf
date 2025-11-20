@@ -33,19 +33,6 @@ This repository is a personal profile repo. Use it to host:
 
 ---
 
-## ⭐ Featured projects
-*(Add links to repositories here — replace these examples with your projects)*
-
-- **Project Name — Short description**  
-  `Link:` `https://github.com/imohsinnadaf/your-project`  
-  Highlights: What you built, key tech, and what you learned.
-
-- **Interview Prep — Question set & solutions**  
-  `Link:` `https://github.com/imohsinnadaf/interview-prep`  
-  Includes Java, SQL, and React practice problems.
-
----
-
 ## 📂 How I organize code
 - Small, focused repos for each project
 - Clear `README.md` in each project that explains how to run, test, and extend the code
@@ -54,9 +41,8 @@ This repository is a personal profile repo. Use it to host:
 ---
 
 ## 📫 Contact
-- Email: **your.email@example.com** (replace with your email)
-- LinkedIn: **https://www.linkedin.com/in/imohsinnadaf** (replace/update)
-- Twitter / X: **@your_handle** (optional)
+- Email: **itsmohsinnadaf@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/mohsin-nadaf** 
 
 ---
 
@@ -70,11 +56,4 @@ I welcome feedback, suggestions, and collaboration. Open an issue or send a mess
 
 ---
 
-### If you want, I can:
-- Convert this into a more visual README (with badges, icons and a project gallery).
-- Create a set of example project entries (I’ll draft `README`s for 2–3 projects and a short portfolio layout).
-- Generate a small GitHub Actions workflow to auto-update a README stats section.
-
----
-
-Thanks — tell me which of the optional follow-ups you want next (visual/markdown badges, project entries, or actions), and I’ll add them directly into the README for you.
+## Thank You
